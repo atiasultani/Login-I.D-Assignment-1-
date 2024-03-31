@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "name": "index",
+  "version": "1.0.0",
+  "description": "check password is valid or not",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asultani",
+  "license": "MIT"
+}
